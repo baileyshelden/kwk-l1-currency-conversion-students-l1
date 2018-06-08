@@ -18,18 +18,18 @@ usd_to_eur
 
 
 # method 2 
-def eur_to_usd
+# def eur_to_usd
 
-puts "How many Euros do you have?"
-eur = gets.chomp.to_i
+# puts "How many Euros do you have?"
+# eur = gets.chomp.to_i
  
-dollar = eur * 1.18
+# dollar = eur * 1.18
  
-puts "You now have #{dollar.round(2)} Euros."
-end 
+# puts "You now have #{dollar.round(2)} Euros."
+# end 
 
 
-eur_to_usd
+# eur_to_usd
 
 
 # challenge 2
