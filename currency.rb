@@ -25,7 +25,7 @@ eur = gets.chomp.to_i
  
 dollar = eur * 1.18
  
-puts "You now have #{dollar.round(2)} Euros."
+puts "You now have #{dollar.round(2)} Dollars."
 end 
 
 
